@@ -1,2 +1,3 @@
 # codechef
-CODECHEF practice problem solutions!
+
+CODECHEF practice problem solutions.
